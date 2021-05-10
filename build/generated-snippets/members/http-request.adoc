@@ -1,0 +1,7 @@
+[source,http,options="nowrap"]
+----
+GET /member?next=0&limit=10 HTTP/1.1
+Accept: application/json
+Host: unialto.com:8080
+
+----

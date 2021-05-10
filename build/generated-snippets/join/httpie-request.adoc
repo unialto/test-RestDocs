@@ -1,0 +1,12 @@
+[source,bash]
+----
+$ echo '{
+  "idx" : 0,
+  "email" : "hong@gildong.kr",
+  "name" : "홍길동",
+  "birthdate" : "2012-05-07",
+  "gender" : "남"
+}' | http POST 'https://unialto.com:8080/member' \
+    'Content-Type:application/json;charset=UTF-8' \
+    'Accept:application/json'
+----

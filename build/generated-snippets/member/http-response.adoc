@@ -1,0 +1,14 @@
+[source,http,options="nowrap"]
+----
+HTTP/1.1 200 OK
+Content-Type: application/json;charset=UTF-8
+Content-Length: 126
+
+{
+  "idx" : 1,
+  "email" : "hong@gildong.kr",
+  "name" : "홍길동",
+  "birthdate" : "2012-05-07",
+  "gender" : "남"
+}
+----

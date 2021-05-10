@@ -1,0 +1,8 @@
+.+/member/{idx}+
+|===
+|Parameter|Description
+
+|`+idx+`
+|회원번호
+
+|===

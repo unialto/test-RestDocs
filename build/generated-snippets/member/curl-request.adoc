@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ curl 'https://unialto.com:8080/member/1' -i -X GET \
+    -H 'Accept: application/json'
+----
