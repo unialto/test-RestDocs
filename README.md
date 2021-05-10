@@ -8,6 +8,4 @@
 
 ### [MemberControllerTest.java](https://github.com/unialto/test-RestDocs/blob/master/src/test/java/com/unialto/test/restdocs/api/member/MemberControllerTest.java) : Test and Generate REST Docs
 
-### [MemberControllerTest.java](https://github.com/unialto/test-RestDocs/blob/master/src/test/java/com/unialto/test/restdocs/api/member/MemberControllerTest.java) : Test
-
 ### [generated-snippets/](https://github.com/unialto/test-RestDocs/tree/master/build/generated-snippets) : Generated Snippets
