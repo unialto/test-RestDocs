@@ -1,0 +1,14 @@
+|===
+|Parameter|Required|Default|Description
+
+|`+next+`
+|
+|0
+|다음 조회 회원번호
+
+|`+limit+`
+|
+|10
+|조회건수
+
+|===

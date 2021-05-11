@@ -1,0 +1,13 @@
+[source,bash]
+----
+$ curl 'https://unialto.com:8080/member' -i -X POST \
+    -H 'Content-Type: application/json;charset=UTF-8' \
+    -H 'Accept: application/json' \
+    -d '{
+  "idx" : 0,
+  "email" : "hong@gildong.kr",
+  "name" : "홍길동",
+  "birthdate" : "2012-05-07",
+  "gender" : "남"
+}'
+----

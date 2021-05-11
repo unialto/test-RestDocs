@@ -1,0 +1,5 @@
+[source,bash]
+----
+$ http GET 'https://unialto.com:8080/member?next=0&limit=10' \
+    'Accept:application/json'
+----

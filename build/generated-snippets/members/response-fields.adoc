@@ -1,0 +1,24 @@
+|===
+|Path|Type|Description
+
+|`+[].idx+`
+|`+Number+`
+|회원번호
+
+|`+[].email+`
+|`+String+`
+|이메일
+
+|`+[].name+`
+|`+String+`
+|이름
+
+|`+[].birthdate+`
+|`+String+`
+|생일 (yyyy-MM-dd)
+
+|`+[].gender+`
+|`+String+`
+|성별 (남, 여)
+
+|===

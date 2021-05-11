@@ -1,0 +1,16 @@
+[source,http,options="nowrap"]
+----
+POST /member HTTP/1.1
+Content-Type: application/json;charset=UTF-8
+Accept: application/json
+Content-Length: 126
+Host: unialto.com:8080
+
+{
+  "idx" : 0,
+  "email" : "hong@gildong.kr",
+  "name" : "홍길동",
+  "birthdate" : "2012-05-07",
+  "gender" : "남"
+}
+----

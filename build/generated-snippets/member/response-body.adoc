@@ -1,0 +1,10 @@
+[source,options="nowrap"]
+----
+{
+  "idx" : 1,
+  "email" : "hong@gildong.kr",
+  "name" : "홍길동",
+  "birthdate" : "2012-05-07",
+  "gender" : "남"
+}
+----
