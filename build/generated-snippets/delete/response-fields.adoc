@@ -1,8 +1,0 @@
-|===
-|Path|Type|Description
-
-|`+result+`
-|`+String+`
-|결과 (succ, fail)
-
-|===

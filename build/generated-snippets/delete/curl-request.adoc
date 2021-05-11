@@ -1,5 +1,0 @@
-[source,bash]
-----
-$ curl 'https://unialto.com:8080/member?idx=1' -i -X DELETE \
-    -H 'Accept: application/json'
-----

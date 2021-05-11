@@ -1,9 +1,0 @@
-|===
-|Parameter|Required|Default|Description
-
-|`+idx+`
-|true
-|
-|회원번호
-
-|===

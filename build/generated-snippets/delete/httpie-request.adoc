@@ -1,5 +1,0 @@
-[source,bash]
-----
-$ http DELETE 'https://unialto.com:8080/member?idx=1' \
-    'Accept:application/json'
-----

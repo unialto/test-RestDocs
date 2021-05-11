@@ -114,7 +114,6 @@ class MemberControllerTest {
                 .andExpect(status().isOk())
                 .andDo(document(
                         "members",
-                        preprocessRequest(prettyPrint()),
                         preprocessResponse(prettyPrint()),
                         requestParameters(
                                 parameterWithName("next").optional().attributes(key("default").value("0")).description("다음 조회 회원번호"),
@@ -175,7 +174,6 @@ class MemberControllerTest {
                 .andExpect(status().isOk())
                 .andDo(document(
                         "delete",
-                        preprocessRequest(prettyPrint()),
                         preprocessResponse(prettyPrint()),
                         requestParameters(
                                 parameterWithName("idx").description("회원번호")

@@ -1,0 +1,39 @@
+ifndef::snippets[]
+:snippets: ../../../build/generated-snippets
+endif::[]
+
+= API Docs
+
+This is an example output for a service running at http://localhost:8080:
+
+== [Members]
+=== request
+include::{snippets}/members/request-parameters.adoc[]
+include::{snippets}/members/http-request.adoc[]
+=== response
+include::{snippets}/members/response-fields.adoc[]
+include::{snippets}/members/http-response.adoc[]
+
+== [Member]
+=== request
+include::{snippets}/member/path-parameters.adoc[]
+include::{snippets}/member/http-request.adoc[]
+=== response
+include::{snippets}/member/response-fields.adoc[]
+include::{snippets}/member/http-response.adoc[]
+
+== [Join]
+=== request
+include::{snippets}/join/request-fields.adoc[]
+include::{snippets}/join/http-request.adoc[]
+=== response
+include::{snippets}/join/response-fields.adoc[]
+include::{snippets}/join/http-response.adoc[]
+
+== [Delete]
+=== request
+include::{snippets}/delete/request-parameters.adoc[]
+include::{snippets}/delete/http-request.adoc[]
+=== response
+include::{snippets}/delete/response-fields.adoc[]
+include::{snippets}/delete/http-response.adoc[]

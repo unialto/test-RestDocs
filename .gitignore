@@ -39,3 +39,4 @@ out/
 ### Spring REST Docs ###
 #build/generated
 !build/generated\-snippets
+!build/asciidoc
