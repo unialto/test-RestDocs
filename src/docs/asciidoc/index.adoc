@@ -1,5 +1,5 @@
 ifndef::snippets[]
-:snippets: ../../../build/generated-snippets
+:snippets: https://github.com/unialto/test-RestDocs/tree/master/build/generated-snippets
 endif::[]
 
 = API Docs
