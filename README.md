@@ -12,4 +12,4 @@
 
 ### [index.adoc](https://github.com/unialto/test-RestDocs/blob/master/src/docs/asciidoc/index.adoc) : index.adoc
 
-### [index.html](https://github.com/unialto/test-RestDocs/tree/master/build/asciidoc/html5) : index.html
+### [index.html](https://unialto.github.io/test-RestDocs/build/asciidoc/html5/index.html) : index.html
