@@ -10,6 +10,7 @@ This is an example output for a service running at http://localhost:8080:
 === request
 include::{snippets}/members/request-parameters.adoc[]
 include::{snippets}/members/http-request.adoc[]
+
 === response
 include::{snippets}/members/response-fields.adoc[]
 include::{snippets}/members/http-response.adoc[]
@@ -18,6 +19,7 @@ include::{snippets}/members/http-response.adoc[]
 === request
 include::{snippets}/member/path-parameters.adoc[]
 include::{snippets}/member/http-request.adoc[]
+
 === response
 include::{snippets}/member/response-fields.adoc[]
 include::{snippets}/member/http-response.adoc[]
@@ -26,6 +28,7 @@ include::{snippets}/member/http-response.adoc[]
 === request
 include::{snippets}/join/request-fields.adoc[]
 include::{snippets}/join/http-request.adoc[]
+
 === response
 include::{snippets}/join/response-fields.adoc[]
 include::{snippets}/join/http-response.adoc[]
@@ -34,6 +37,7 @@ include::{snippets}/join/http-response.adoc[]
 === request
 include::{snippets}/delete/request-parameters.adoc[]
 include::{snippets}/delete/http-request.adoc[]
+
 === response
 include::{snippets}/delete/response-fields.adoc[]
 include::{snippets}/delete/http-response.adoc[]
